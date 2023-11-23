@@ -1,0 +1,1 @@
+### Projeto onde foi estudado como funciona uma SPA(Single Page Aplication)
